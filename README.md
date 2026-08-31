@@ -11,7 +11,7 @@ A Machine Learning and Data Science coursework project focused on exploring audi
 
 ### 📊 Dataset
 The analysis is based on the **Spotify Music Popularity Analysis** dataset available on Kaggle:
-🔗 [Kaggle Dataset Link](https://kaggle.com)
+🔗 [Kaggle Dataset Link]([https://kaggle.com](https://www.kaggle.com/datasets/solomonameh/spotify-music-dataset?select=low_popularity_spotify_data.csv))
 
 ### 📌 Project Overview
 The goal of this project is to process acoustic properties of tracks (such as tempo, loudness, acousticness, and liveness) to find hidden patterns and perform comprehensive audio profiling.
@@ -37,7 +37,7 @@ The goal of this project is to process acoustic properties of tracks (such as te
 
 ### 📊 Датасет
 Анализ проведен на основе датасета **Spotify Music Popularity Analysis**, взятого с платформы Kaggle:
-🔗 [Ссылка на датасет Kaggle](https://kaggle.com)
+🔗 [Ссылка на датасет Kaggle]([https://kaggle.com](https://www.kaggle.com/datasets/solomonameh/spotify-music-dataset?select=low_popularity_spotify_data.csv))
 
 ### 📌 Обзор проекта
 Цель проекта — обработать акустические свойства треков (такие как темп, громкость, акустичность и динамичность) для поиска скрытых закономерностей и создания профилей музыкальных данных.
